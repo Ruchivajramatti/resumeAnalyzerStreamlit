@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Data
+data/
+resumes_dataset/
+resumes_dataset.zip
+
+# OS
+Thumbs.db
+Desktop.ini
